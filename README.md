@@ -15,3 +15,6 @@ Repositorio para practicar Git y GitHub.
 - Java
 
 - PostgreSQL
+
+asadas
+tecnologias 
