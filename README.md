@@ -34,3 +34,11 @@ Actualización realizada desde GitHub.
 ## Estado del proyecto
 
 estado en desarrollo y actualizado
+
+## Aprendizajes obtenidos
+
+- Creación y seguimiento de repositorios.
+- Manejo de ramas.
+- Resolución de conflictos.
+- Conexión con GitHub.
+- Recuperación de cambios.
