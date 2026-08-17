@@ -30,3 +30,7 @@ Jhoset Palomino
 
 
 Actualización realizada desde GitHub.
+
+## Estado del proyecto
+
+Estado: inicial
