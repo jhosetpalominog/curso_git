@@ -33,4 +33,4 @@ Actualización realizada desde GitHub.
 
 ## Estado del proyecto
 
-Estado: inicial
+Estado: en desarrollo desde la rama
