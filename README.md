@@ -42,3 +42,5 @@ estado en desarrollo y actualizado
 - Resolución de conflictos.
 - Conexión con GitHub.
 - Recuperación de cambios.
+
+- Uso de pull requests.
