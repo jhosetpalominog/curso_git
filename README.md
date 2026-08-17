@@ -33,4 +33,4 @@ Actualización realizada desde GitHub.
 
 ## Estado del proyecto
 
-Estado: actualizado desde main
+estado en desarrollo y actualizado
