@@ -27,3 +27,6 @@ Este repositorio contiene mis prácticas de Git y GitHub.
 ## Autor
 
 Jhoset Palomino
+
+
+Actualización realizada desde GitHub.
