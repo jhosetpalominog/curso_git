@@ -18,3 +18,8 @@ Repositorio para practicar Git y GitHub.
 
 asadas
 tecnologias 
+
+
+## Descripción
+
+Este repositorio contiene mis prácticas de Git y GitHub.
