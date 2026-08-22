@@ -44,3 +44,17 @@ estado en desarrollo y actualizado
 - Recuperación de cambios.
 
 - Uso de pull requests.
+
+## Aplicación de tutorías
+
+El proyecto incluye una aplicación Java de consola que permite registrar:
+
+- Nombre del estudiante.
+- Curso solicitado.
+- Duración de la tutoría.
+
+### Ejecución
+
+Ejecutar la clase:
+
+`com.jhoset.tutorias.Main`
